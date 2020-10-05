@@ -82,7 +82,7 @@ COMMAND = Command({
     'START' : 'start',
     'PASSWORD' : 'pass',
     'HELP' : 'help',
-    'LEECH' : 'leech',
+    'LEECH' : 'leech@torlecbot',
     'CANCEL_LEECH' : 'cancel',
     'LEECH_LIST' : 'list',
     'UPLOAD_AS_DOC' : 'upload_as_doc',
